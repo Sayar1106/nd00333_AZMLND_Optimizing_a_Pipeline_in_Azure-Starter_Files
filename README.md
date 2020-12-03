@@ -7,7 +7,7 @@ This model is then compared to an Azure AutoML run.
 
 ## Summary
 
-**The dataset contains data about a bank marketing campaign to determine whether a given client would subscribe to a 
+The dataset contains data about a bank marketing campaign to determine whether a given client would subscribe to a 
 term deposit or not. The dataset contained information about the last call that was made to the
 prospective client about the current campaign as well as information about the client's credit history and demographics.
 
